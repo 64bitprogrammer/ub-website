@@ -1,0 +1,28 @@
+
+div#home-bg-drop.jumbotron {
+	background-image: url("../image/backdrop01.jpg");
+	background-repeat: no-repeat;
+}
+
+
+
+.zeroPadding{
+	padding: 0;
+}
+
+.ub-bg-color{
+	background-color: white;
+	border: solid 1px black;
+}
+
+.ub-fg-color{
+	color: darkblue;
+}
+
+.greyback{
+	background-color: lightgrey;
+}
+
+.blueback{
+	background-color: lightblue;
+}

@@ -2,8 +2,8 @@
 
 // MySQL connection file along with necessary functions for DB access.
 
-$username = 'shrikrishna';
-$password = 'root';
+$username = 'root';
+$password = '';
 $host = 'localhost';
 $database = 'ub';
 

@@ -13,9 +13,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">Home</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="#">Restaurent</a>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link" href="#">Menu</a>
                 </li>
@@ -37,9 +37,9 @@
 				        <a class="dropdown-item" href="#">City Hall Convention Center</a>
 				    </div>
 				</li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link" href="#">About</a>
-                </li>
+                </li> -->
             </ul>
         </div>
     </nav>

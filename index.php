@@ -101,8 +101,21 @@ require_once "include/header.php";
 		
 	</div>
 
-	<div class="row my-5" style="height:200px;">
-		<div class="col-md-8 text-center" style="height:200px;">
+	<div class="row my-5">
+		<div class="col-md-4">
+			<img src="image/south_food.jpg" class="img-max"/>
+		</div>
+
+		<div class="col-md-8 text-center">
+			<h3> South Indian Variety Breakfast </h3>
+			<p class="lead">
+				Idli, Vada, Dosa Variety, Sheera, Upma and Much More.
+			</p>
+		</div>
+	</div>
+
+	<div class="row my-5">
+		<div class="col-md-8 text-center">
 			<h3> Variety Of Sweet Available </h3>
 			<p class="lead">
 				Kunda, Shreekhand, Basundi, Gulab Jamoon Available Every Day !
@@ -110,7 +123,7 @@ require_once "include/header.php";
 			<!-- <p> Freshly made sweets available for sale. Made with good quality ingredients.</p> -->
 		</div>
 
-		<div class="col-md-4 p-0">
+		<div class="col-md-4">
 			<img src="image/jamun2.jpg" class="img-max"/>
 		</div>
 	</div>

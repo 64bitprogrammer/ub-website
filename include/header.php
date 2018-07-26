@@ -1,6 +1,6 @@
 <?php
 	// Header page to load default page content, css and other scripts and the navbar upto <body>
-	require_once 'connect.php';
+	//require_once 'connect.php';
 ?>
 
 <!DOCTYPE html>

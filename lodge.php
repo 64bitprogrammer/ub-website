@@ -122,52 +122,56 @@ require_once "include/header.php";
 	<!-- Block #3 for tariff cards -->
 	<div class="row">
 		<div class="col-sm-12 col-md-4">
-			<div class="card">
+			<div class="card mb-4">
 			  <div class="card-header bg-danger text-center bold">Economy Rooms</div>
 			  <div class="card-body">
 				<table border="0" width="100%" cellpadding="10">
 					<tr> 
-						<th class="side-border"> Economy Room Single </th>
-						<td> &#8377;499 </td>
+						<td class="side-border"> Economy Single </th>
+						<td> &#8377;400 </td>
+						<td> &#8377;450</td>
 					</tr>
 					<tr> 
-						<th class="side-border"> Economy Room Double </th>
-						<td> &#8377;799 </td>
+						<td class="side-border"> Economy Double </th>
+						<td> &#8377;600 </td>
+						<td> &#8377;700</td>
 					</tr>
 				</table>
 			  </div> 
 			</div>
 		</div>
 		<div class="col-sm-12 col-md-4">
-			<div class="card ">
+			<div class="card mb-4">
 			  <div class="card-header bg-danger text-center bold">Deluxe Rooms</div>
 			  <div class="card-body">
 			  	<table border="0" width="100%" cellpadding="10">
 					<tr> 
-						<th class="side-border"> Deluxe Room Single </th>
-						<td> &#8377;999 </td>
-						<td> &#8377;1199 </td>
+						<td class="side-border"> Deluxe Single </th>
+						<td> &#8377;895 </td>
+						<td> &#8377;1099[AC] </td>
 					</tr>
 					<tr> 
-						<th class="side-border"> Deluxe Room Double </th>
+						<td class="side-border"> Deluxe Double </th>
 						<td> &#8377;999 </td>
-						<td> &#8377;1499 </td>
+						<td> &#8377;1399[AC]</td>
 					</tr>
 				</table>
 			  </div> 
 			</div>
 		</div>
-		<div class="col-sm-12 col-md-4">
+		<div class="col-sm-12 col-md-4  mb-4">
 			<div class="card">
 			  <div class="card-header bg-danger text-center bold">Dormitory</div>
 			  <div class="card-body">
 			  	<table border="0" width="100%" cellpadding="10">
 					<tr> 
-						<th class="side-border"> 4 Bed Dormitory</th>
+						<td class="side-border"> 4 Bed Dormitory</th>
 						<td> &#8377;1299 </td>
+						<td> &#8377;1599 </td>
 					</tr>
 					<tr> 
-						<th class="side-border"> 6 Bed Dormitory </th>
+						<td class="side-border"> Spl. Deluxe Single</th>
+						<td> &#8377;1500 </td>
 						<td> &#8377;1999 </td>
 					</tr>
 				</table>

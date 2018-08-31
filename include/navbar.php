@@ -17,7 +17,7 @@
                     <a class="nav-link" href="#">Restaurent</a>
                 </li> -->
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Menu</a>
+                    <a class="nav-link" href="menu.php">Menu</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="lodge.php">Lodge</a>

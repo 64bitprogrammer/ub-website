@@ -15,71 +15,35 @@ require_once "include/header.php";
 	</div>
 
 	<div class="menu-container m-4 p-4 border border-1">
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Breakfast </h4>
+		
 		<div class="row">
-			<div class="col-md-5">Masala Dosa</div>
-			<div class="col-md-1">45</div>
-			<div class="col-md-5">Puri Bhaji</div>
-			<div class="col-md-1">47</div>
-
-			<div class="col-md-5">Single Idli</div>
-			<div class="col-md-1">45</div>
-			<div class="col-md-5">Double Idli</div>
-			<div class="col-md-1">47</div>
-
-			<div class="col-md-5">Rava Dosa</div>
-			<div class="col-md-1">45</div>
-			<div class="col-md-5">Onion Pakoda</div>
-			<div class="col-md-1">47</div>
-
-			<div class="col-md-5">Masala Dosa</div>
-			<div class="col-md-1">45</div>
-			<div class="col-md-5">Puri Bhaji</div>
-			<div class="col-md-1">47</div>
-
-			<div class="col-md-5">Masala Dosa</div>
-			<div class="col-md-1">45</div>
-			<div class="col-md-5">Puri Bhaji</div>
-			<div class="col-md-1">47</div>
-		</div>
-
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Special Snacks </h4>
-		<div class="row">
-			<div class="col-10 col-md-5">Masala Dosa</div>
-			<div class="col-2 col-md-1">45</div>
-			<div class="col-10 col-md-5">Puri Bhaji</div>
-			<div class="col-2 col-md-1">47</div>
-		</div>
-
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Bread Items </h4>
-		<div class="row">
-			<div class="col-6">
-				Uthappa
+			<div class="col-md-5">
+				<div class="card" style="width:auto">
+				  <img class="card-img-top" src="image/south_menu.png" alt="Card image">
+				  <div class="card-body">
+				    <h4 class="card-title">South Indian</h4>
+				    <p class="card-text">Breakfast, Meal and More.</p>
+				    <a href="south_menu.pdf" download class="btn btn-primary">Download</a>
+				  </div>
+				</div>
 			</div>
-			<div class="col-6">
-				50
+
+			<div class="col-md-2">
+				<br/>
+			</div>
+
+			<div class="col-md-5">
+				<div class="card" style="width:auto">
+				  <img class="card-img-top" src="image/chinese_menu.jpeg" alt="Card image">
+				  <div class="card-body">
+				    <h4 class="card-title">Chinese</h4>
+				    <p class="card-text">Soup, Noodles and More.</p>
+				    <a href="chinese_menu.pdf" download class="btn btn-primary">Download</a>
+				  </div>
+				</div>
 			</div>
 		</div>
 
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Dosa Items </h4>
-
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Hot Beverages </h4>
-
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Cold Beverages </h4>
-
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Rice Items </h4>
-
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Thali </h4>
-
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Mumbai Chat </h4>
-
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Upvas Day Special </h4>
-
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Sweet </h4>
-
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Curd </h4>
-
-		<h4 class="text-center m-4 p-4 border border-2 bgWhite"> Extra </h4>
 	</div>
 
 </div>

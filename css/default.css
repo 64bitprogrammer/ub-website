@@ -1,3 +1,7 @@
+.carousel-item img {
+  width:100%
+}
+
 .bgWhite{
 	background-color: white;
 }
@@ -31,7 +35,11 @@
 }
 
 div#home-bg-drop.jumbotron {
-	background-color:#4276ab;
+	background-image: url('../image/backdrop.jpg');
+	opacity: 0.9;
+	font-weight: bold;
+	/*filter: blur(1px);*/
+	/*background-color:#4276ab;*/
 	/* border: solid 1px black;*/
 }
 

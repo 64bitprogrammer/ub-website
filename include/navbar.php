@@ -25,7 +25,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="contact.php">Contact</a>
                 </li>
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
 				    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" data-toggle="dropdown">
 				        More
 				    </a>
@@ -36,7 +36,7 @@
 				        <div class="dropdown-divider"></div>
 				        <a class="dropdown-item" href="#">City Hall Convention Center</a>
 				    </div>
-				</li>
+				</li> -->
                 <!-- <li class="nav-item">
                     <a class="nav-link" href="#">About</a>
                 </li> -->

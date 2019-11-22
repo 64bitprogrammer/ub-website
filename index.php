@@ -27,26 +27,34 @@ require_once "include/header.php";
 			<li data-target="#demo" data-slide-to="0" class="active"></li>
 			<li data-target="#demo" data-slide-to="1"></li>
 			<li data-target="#demo" data-slide-to="2"></li>
+			<li data-target="#demo" data-slide-to="3"></li>
 		</ul>
 
 		<!-- The slideshow -->
 		<div class="carousel-inner">
 			<div class="carousel-item active">
-				<img src="image/room13.jpg" alt="Los Angeles" width="1500" height="500">
+				<img src="image/masala_dosa.jpg" alt="Los Angeles" width="1500" height="500">
 				<div class="carousel-caption">
 					<h2>Hotel Uday Bhuvan</h2>
 					<h4>Pure Veg South-Indian Restaurant, Serving Good Food Since 1956.</h4>
 				</div>
 			</div>
 			<div class="carousel-item">
-				<img src="image/room14.jpg" alt="Chicago" width="1500" height="500">
+				<img src="image/set_dosa.jpg" alt="Chicago" width="1500" height="500">
 				<div class="carousel-caption">
 					<h3>Hotel Uday Bhuvan</h3>
 					<p>Pure Veg South-Indian Restaurant, Serving Good Food Since 1956.</p>
 				</div>
 			</div>
 			<div class="carousel-item">
-				<img src="image/room15.jpg" alt="New York" width="1500" height="500">
+				<img src="image/idli1.jpg" alt="New York" width="1500" height="500">
+				<div class="carousel-caption">
+					<h3>Hotel Uday Bhuvan</h3>
+					<p>Pure Veg South-Indian Restaurant, Serving Good Food Since 1956.</p>
+				</div>
+			</div>
+			<div class="carousel-item">
+				<img src="image/kushka_rice.jpg" alt="New York" width="1500" height="500">
 				<div class="carousel-caption">
 					<h3>Hotel Uday Bhuvan</h3>
 					<p>Pure Veg South-Indian Restaurant, Serving Good Food Since 1956.</p>
